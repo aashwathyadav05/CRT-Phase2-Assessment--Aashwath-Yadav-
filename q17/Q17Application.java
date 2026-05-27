@@ -1,0 +1,13 @@
+package org.example.q17;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Q17Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Q17Application.class, args);
+    }
+
+}
